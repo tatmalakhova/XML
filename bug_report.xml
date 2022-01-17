@@ -1,1 +1,19 @@
-
+<?xml version="1.0"?>
+    <BugReport>
+      <ID>A1</ID>
+      <Title>Сайт магазина Шопоголик</Title>
+      <str1>1. Зайти на главную страницу сайта www.shopogolic.ru</str1>
+      <str2>1. Зайти на главную страницу сайта www.shopogolic.ru</str2>
+      <OS>Windows 10 x64 build 19043</OS>
+      <Browser>Google Chrome v96.0.4664.45 x64"</Browser>
+      <Component>Кнопка Каталог</Component>
+      <Build>0.5.7</Build>
+      <Actual result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</Actual result>
+      <Expected result>Нажатие кнопки Каталог перенаправляет на страницу Каталога"</Expected result>
+      <Severity>Critical</Severity>
+      <Priority>High</Priority>
+      <Status>Open</Status>
+      <Author>Татьяна Викулова</Author>
+      <SignTo>Иван Колесников</SignTo>
+      <Attachments>Cсылка_на_картинку_или_видео_с_багом"
+    </BugReport>
